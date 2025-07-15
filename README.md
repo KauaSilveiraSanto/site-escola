@@ -9,3 +9,4 @@ Página web criada em HTML com foco educativo para um projeto escolar.
 
 ## 🛠️ Tecnologias
 - HTML5
+- CSS
